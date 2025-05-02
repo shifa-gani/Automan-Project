@@ -1,6 +1,6 @@
 # Box Dimension Optimization & Object Placement Simulation
 
-This repository contains code for simulating and optimizing the dimensions of a box used in the **etching, cutting**, and **placing of objects**. It includes algorithms for optimizing space utilization, simulating object interactions with the box, and visualizing the process.
+This repository contains code for optimizing the dimensions of a box  and simulations of **etching, cutting**, and **placing of objects**. It includes algorithms for optimizing space utilization, simulating object interactions with the box, and visualizing the process.
 
 ## 📦 Features
 
